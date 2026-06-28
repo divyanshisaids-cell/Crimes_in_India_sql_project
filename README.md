@@ -46,18 +46,36 @@ CREATE TABLE Crimes
 ## 📊 Business Questions Answered (20 Queries)
 
 1. Which crime type occurs most frequently?
+   ```sql
+   SELECT Crime_Description,
+   COUNT(Crime_Description) as totalno_crimes
+   FROM dbo.crimes
+   GROUP BY Crime_Description 
+   ORDER BY COUNT(Crime_Description) DESC
+   
 2. Which city has the highest number of reported crimes?
+   ```sql
 3. How many crimes were reported each year?
+   ```sql
 4. What is the gender distribution of victims?
+   ```sql
 5. Which weapon is used most often?
+   ```sql
 6. What time of day do most crimes occur?
+   ```sql
 7. What is the case resolution rate by city?
+   ```sql
 8. What is the average victim age per crime domain?
+   ```sql
 9. Which cities have above average crime count?
-10. How many crimes involved each weapon per crime domain?
-11. Which age group is most targeted?
-12. Which city has the most unsolved cases?
+   ```sql
 
+10. How many crimes involved each weapon per crime domain?
+    ```sql
+11. Which age group is most targeted?
+    ```sql
+12. Which city has the most unsolved cases?
+    ```sql
 ---
 
 ## 💡 Key Insights
