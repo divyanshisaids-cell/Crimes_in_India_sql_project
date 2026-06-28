@@ -72,12 +72,12 @@ CREATE TABLE Crimes
 ##  SQL Concepts Used
 - GROUP BY, ORDER BY, HAVING
 - CASE WHEN for categorization
-- Window Functions — RANK(), LAG(), SUM() OVER()
+- Window Functions
 - CTEs (Common Table Expressions)
 - Subqueries
 - DATEDIFF, DATEPART, DATENAME
 - TRY_CONVERT for date handling
-- Aggregate Functions — COUNT, AVG, MIN, MAX, SUM
+- Aggregate Functions — COUNT, AVG, MIN, MAX, SUM, ROUND
 
 ---
 
