@@ -81,10 +81,6 @@ CREATE TABLE Crimes
 
 ---
 
-## 📁 Repository Structure
-
----
-
 ## 🙋‍♀️ About Me
 Third-year Economics Honours student at Hans Raj College, University of Delhi.
 📧 [divyanshisai.ds@gmail.com]
