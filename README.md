@@ -188,7 +188,7 @@ CREATE TABLE Crimes
 - CTEs (Common Table Expressions)
 - Subqueries
 - DATEDIFF, DATEPART, DATENAME
-- TRY_CONVERT for date handling
+- CONVERT for date handling
 - Aggregate Functions — COUNT, AVG, MIN, MAX, SUM, ROUND
 
 ---
