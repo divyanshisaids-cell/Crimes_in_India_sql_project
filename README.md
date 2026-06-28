@@ -7,9 +7,9 @@ This project analyzes a real-world crime dataset containing 40,160 records acros
 ---
 
 ## 🗃️ Dataset
-- **Source:** Kaggle — [India Crime Dataset](https://www.kaggle.com/datasets/sudhanvahg/indian-crimes-dataset))
+- **Source:** Kaggle — [India Crime Dataset](https://www.kaggle.com/datasets/sudhanvahg/indian-crimes-dataset)
 - **Size:** 40,160 rows | 14 columns
-- **Cities Covered:** 29 Indian cities including Delhi, Mumbai, Bangalore, Hyderabad, Kolkata and more
+- **Cities Covered:** 29 Indian cities, including Delhi, Mumbai, Bangalore, Hyderabad, Kolkata and more
 - **Time Period:** 2020 onwards
 
 ---
