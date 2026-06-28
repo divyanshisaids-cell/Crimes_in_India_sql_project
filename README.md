@@ -43,7 +43,7 @@ CREATE TABLE Crimes
 );
 ```
 
-## 📊 Business Questions Answered (20 Queries)
+## 📊 Business Questions Answered (12 Queries)
 
 1. Which crime type occurs most frequently?
    ```sql
